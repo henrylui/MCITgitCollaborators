@@ -1,7 +1,7 @@
 
 public class AdditionCalculator {
 
-
+	//Avatar was here	
 	public int addIntegersWithTwist(int a,int b) {
 		//Add integers along with a random selected number (See line 8)
 		
